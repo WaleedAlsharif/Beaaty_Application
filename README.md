@@ -9,6 +9,7 @@ Beaty App It is an application that was created and developed for the benefit of
 * application supports Arabic and English languages
 
 For More Details And Source Code Do not hesitate to communicate with me 
+Email : waleed.ja.sh.2000@gmail.com
 
 App Screens 
 
